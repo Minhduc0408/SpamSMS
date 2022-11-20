@@ -2,7 +2,7 @@
 ```sh
 git clone https://github.com/ViDucHung2006/SpamCall
 cd SpamCall
-py spamcall.py
+python spamcall.py
 ```
 # Group Telegram
 ```sh
