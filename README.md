@@ -3,7 +3,7 @@
 git clone https://github.com/ViDucHung2006/SpamCall
 cd SpamCall
 git pull
-python spamcall.py
+python callv2.py
 ```
 # Group Telegram
 ```sh
